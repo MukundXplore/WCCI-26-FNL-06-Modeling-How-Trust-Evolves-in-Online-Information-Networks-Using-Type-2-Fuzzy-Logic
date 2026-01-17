@@ -1,1 +1,0 @@
-# WCCI-26-FNL-06-Modeling-How-Trust-Evolves-in-Online-Information-Networks-Using-Type-2-Fuzzy-Logic
